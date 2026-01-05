@@ -64,6 +64,10 @@ AWS (learning) / Terraform (learning)
 
 <br>
 
+### Certifications AWS :
+• AWS Certified Cloud Practitioner — done
+• AWS Solutions Architect Associate — in progress...
+
 <br>
 ---
 
