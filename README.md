@@ -12,7 +12,7 @@
 
 - 📧 Email: mathieu.meuric@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/mathieu-meuric-a09040152
-- 📄 CV: [CV (PDF)](https://github.com/mmeuric/mmeuric/raw/main/CV_Mathieu_Meuric_stage.pdf)
+- 📄 CV: [CV (PDF)](https://github.com/mmeuric/mmeuric/raw/master/CV_Mathieu_Meuric_stage.pdf)
 
 <br>
 ---
