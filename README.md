@@ -78,6 +78,8 @@ Deployed using **Docker Compose**, featuring a complete **observability stack**.
 Docker Compose / Microservices / ELK Stack / Prometheus / Grafana / (Frontend, Backend, Database)
 
 ---
+<br>
+<br>
 
 ### 🐳 Inception_Docker  
 🔗 [View repository](https://github.com/TON_USERNAME/Inception_Docker)
@@ -91,6 +93,7 @@ NGINX (TLS) / WordPress / MariaDB / Custom Dockerfiles / Docker networking
 ---
 <br>
 <br>
+
 ### 🖥️ Minishell_42  
 🔗 [View repository](https://github.com/TON_USERNAME/Minishell_42)
 
