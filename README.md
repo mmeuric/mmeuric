@@ -12,7 +12,7 @@
 
 - 📧 Email: mathieu.meuric@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/mathieu-meuric-a09040152
-- 📄 CV: [CV (PDF)](file:///home/mmeuric/Downloads/White%20and%20Beige%20Minimalist%20Graphic%20Designer%20Professional%20Cv%20Resume-2.pdf)
+- 📄 CV: [CV (PDF)](https://github.com/mmeuric/mmeuric/raw/main/CV_Mathieu_Meuric_stage.pdf)
 
 <br>
 ---
