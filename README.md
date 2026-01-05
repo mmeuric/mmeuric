@@ -62,6 +62,7 @@ VS Code / Vim / Git / Docker / Linux
 </p>
 AWS (learning) / Terraform (learning)
 
+<br>
 ---
 
 <br>
@@ -71,7 +72,7 @@ AWS (learning) / Terraform (learning)
 <br>
 
 ### #1 🕹️ ft_transcendence  
-🔗 [View repository](https://github.com/TON_USERNAME/ft_transcendence)
+🔗 [View repository](https://github.com/mmeuric/ft_transcendence)
 
 **(42 School – Group Project)**  
 A containerized **full-stack web application** (Pong game) built with a **microservices architecture**.  
@@ -85,7 +86,7 @@ Docker Compose / Microservices / ELK Stack / Prometheus / Grafana / (Frontend, B
 <br>
 
 ### #2 🐳 Inception_Docker  
-🔗 [View repository](https://github.com/TON_USERNAME/Inception_Docker)
+🔗 [View repository](https://github.com/mmeuric/Inception_Docker)
 
 **(42 School – Infrastructure Project)**  
 A complete **Docker-based infrastructure** built from scratch, focusing on security and service isolation.
@@ -98,7 +99,7 @@ NGINX (TLS) / WordPress / MariaDB / Custom Dockerfiles / Docker networking
 <br>
 
 ### #3 🖥️ Minishell_42  
-🔗 [View repository](https://github.com/TON_USERNAME/Minishell_42)
+🔗 [View repository](https://github.com/mmeuric/Minishell_42)
 
 **(42 School – Systems Programming Project)**  
 A **Bash-like shell** written in C, reproducing core Unix shell behaviors.
