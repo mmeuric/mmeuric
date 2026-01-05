@@ -29,7 +29,8 @@
 </p>
 Bash / TypeScript / C / C++ / Python (learning)
 
----
+<br>
+
 
 ### 🌐 Web Development
 <p>
@@ -38,7 +39,8 @@ Bash / TypeScript / C / C++ / Python (learning)
 </p>
 HTML / CSS
 
----
+<br>
+
 
 ### 🧰 Tools & Environment
 <p>
@@ -50,7 +52,8 @@ HTML / CSS
 </p>
 VS Code / Vim / Git / Docker / Linux
 
----
+<br>
+
 
 ### ☁️ Cloud & IaC
 <p>
@@ -63,11 +66,11 @@ AWS (learning) / Terraform (learning)
 
 <br>
 
-## 🧩 Featured 42 Projects
+## 🧩 TOP #3 - 42 Projects
 <br>
 <br>
 
-### 🕹️ ft_transcendence  
+### #1 🕹️ ft_transcendence  
 🔗 [View repository](https://github.com/TON_USERNAME/ft_transcendence)
 
 **(42 School – Group Project)**  
@@ -81,7 +84,7 @@ Docker Compose / Microservices / ELK Stack / Prometheus / Grafana / (Frontend, B
 <br>
 <br>
 
-### 🐳 Inception_Docker  
+### #2 🐳 Inception_Docker  
 🔗 [View repository](https://github.com/TON_USERNAME/Inception_Docker)
 
 **(42 School – Infrastructure Project)**  
@@ -94,7 +97,7 @@ NGINX (TLS) / WordPress / MariaDB / Custom Dockerfiles / Docker networking
 <br>
 <br>
 
-### 🖥️ Minishell_42  
+### #3 🖥️ Minishell_42  
 🔗 [View repository](https://github.com/TON_USERNAME/Minishell_42)
 
 **(42 School – Systems Programming Project)**  
