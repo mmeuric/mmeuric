@@ -63,8 +63,11 @@ VS Code / Vim / Git / Docker / Linux
 AWS (learning) / Terraform (learning)
 
 <br>
+
+<br>
 ---
 
+<br>
 <br>
 
 ## 🧩 TOP #3 - 42 Projects
