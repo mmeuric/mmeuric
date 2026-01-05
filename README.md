@@ -1,5 +1,4 @@
 ## 👨‍💻 About Me
-tronc commun validé, 2nd cycle en cours vers RNCP7
 
 - 👋 Hello, my name is Mathieu, student at **42 (Born2Code)**
 - 🚀 I completed the core curriculum at 42 and am currently enrolled in the 2nd cycle, working toward an RNCP7.
@@ -65,6 +64,8 @@ AWS (learning) / Terraform (learning)
 <br>
 
 ## 🧩 Featured 42 Projects
+<br>
+<br>
 
 ### 🕹️ ft_transcendence  
 🔗 [View repository](https://github.com/TON_USERNAME/ft_transcendence)
@@ -88,7 +89,8 @@ A complete **Docker-based infrastructure** built from scratch, focusing on secur
 NGINX (TLS) / WordPress / MariaDB / Custom Dockerfiles / Docker networking
 
 ---
-
+<br>
+<br>
 ### 🖥️ Minishell_42  
 🔗 [View repository](https://github.com/TON_USERNAME/Minishell_42)
 
@@ -100,6 +102,7 @@ C / Pipes & Redirections / Signals / Built-ins / Binary Tree Parser
 
 ---
 
-
+<br>
+<br>
 <br>
 ⭐️ *Motivated, curious, and always eager to learn.*
