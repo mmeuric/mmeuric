@@ -64,4 +64,42 @@ AWS (learning) / Terraform (learning)
 
 <br>
 
+## 🧩 Featured 42 Projects
+
+### 🕹️ ft_transcendence  
+🔗 [View repository](https://github.com/TON_USERNAME/ft_transcendence)
+
+**(42 School – Group Project)**  
+A containerized **full-stack web application** (Pong game) built with a **microservices architecture**.  
+Deployed using **Docker Compose**, featuring a complete **observability stack**.
+
+**Key points:**  
+Docker Compose / Microservices / ELK Stack / Prometheus / Grafana / (Frontend, Backend, Database)
+
+---
+
+### 🐳 Inception_Docker  
+🔗 [View repository](https://github.com/TON_USERNAME/Inception_Docker)
+
+**(42 School – Infrastructure Project)**  
+A complete **Docker-based infrastructure** built from scratch, focusing on security and service isolation.
+
+**Key points:**  
+NGINX (TLS) / WordPress / MariaDB / Custom Dockerfiles / Docker networking
+
+---
+
+### 🖥️ Minishell_42  
+🔗 [View repository](https://github.com/TON_USERNAME/Minishell_42)
+
+**(42 School – Systems Programming Project)**  
+A **Bash-like shell** written in C, reproducing core Unix shell behaviors.
+
+**Key points:**  
+C / Pipes & Redirections / Signals / Built-ins / Binary Tree Parser
+
+---
+
+
+<br>
 ⭐️ *Motivated, curious, and always eager to learn.*
