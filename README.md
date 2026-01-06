@@ -69,7 +69,7 @@
 >
 > **Kubernetes**
 > - Certified Kubernetes Application Developer (CKAD) — 🚧 in progress
-
+>
 
 <br>
 <br>
