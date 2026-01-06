@@ -65,11 +65,10 @@
 > ### 🎓 Certifications
 > **AWS**
 > - AWS Certified Cloud Practitioner — ✅ done
-> - AWS Solutions Architect Associate — 🚧 in progress
+> - AWS Solutions Architect Associate — in progress...
 >
 > **Kubernetes**
-> - Certified Kubernetes Application Developer (CKAD) — 🚧 in progress
->
+> - Certified Kubernetes Application Developer (CKAD) — in progress...
 
 <br>
 <br>
