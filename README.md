@@ -70,6 +70,12 @@ AWS (learning) / Terraform (learning)
 - AWS Solutions Architect Associate — in progress...
 
 <br>
+
+### 🎓 Certification Kubernetes :
+- Certified Kubernetes Application Developer (CKAD) — in progress...
+
+<br>
+
 ---
 
 <br>
