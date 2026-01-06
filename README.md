@@ -27,7 +27,7 @@
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python"/>
 > </p>
-> Bash / TypeScript / C / C++ / Python *(learning)*
+> Bash / TypeScript / C / C++ / Python (learning)
 >
 > ---
 >
@@ -49,7 +49,7 @@
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="32" alt="Kubernetes"/>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" alt="Linux"/>
 > </p>
-> VS Code / Vim / Git / Docker / Kubernetes *(learning)* / Linux
+> VS Code / Vim / Git / Docker / Kubernetes (learning) / Linux
 >
 > ---
 >
@@ -58,7 +58,7 @@
 >   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" width="32" alt="AWS" />
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32" alt="Terraform"/>
 > </p>
-> AWS *(learning)* / Terraform *(learning)*
+> AWS (learning) / Terraform (learning)
 >
 > ---
 >
