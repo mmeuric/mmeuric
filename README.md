@@ -63,12 +63,12 @@ VS Code / Vim / Git / Docker / Kubernetes (learning) / Linux
 AWS (learning) / Terraform (learning)
 
 <br>
+<br>
 
 ### 🎓 Certifications AWS :
 - AWS Certified Cloud Practitioner — done
 - AWS Solutions Architect Associate — in progress...
 
-<br>
 
 ### 🎓 Certification Kubernetes :
 - Certified Kubernetes Application Developer (CKAD) — in progress...
