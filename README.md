@@ -55,10 +55,9 @@ VS Code / Vim / Git / Docker / Kubernetes (learning) / Linux
 
 <br>
 
-
 ### ☁️ Cloud & IaC
 <p>
-  <img src="https://cdn.simpleicons.org/amazonaws" width="32" alt="AWS"/>
+  <img src="[https://cdn.simpleicons.org/amazonaws](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg)" width="32" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32" alt="Terraform"/>
 </p>
 AWS (learning) / Terraform (learning)
