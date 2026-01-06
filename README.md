@@ -51,7 +51,7 @@ HTML / CSS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="32" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" alt="Linux"/>
 </p>
-VS Code / Vim / Git / Docker / Kubernetes / Linux
+VS Code / Vim / Git / Docker / Kubernetes (learning) / Linux
 
 <br>
 
