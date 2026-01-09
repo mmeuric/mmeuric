@@ -19,6 +19,11 @@
 
 ## 🛠️ Skills & Tools
 
+> I am currently working on DevOps projects from this repository:
+> https://github.com/DevCloudNinjas/DevOps-Projects/tree/master
+>
+>
+>
 > ### 💻 Programming Languages
 > <p>
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32" alt="Bash"/>
