@@ -2,7 +2,7 @@
 
 - 👋 Hello, my name is Mathieu, student at **42 (@42school)** focused on Software, DevOps & Infrastructure.
 - 🚀 I completed the core curriculum at 42 and am currently enrolled in the 2nd cycle, working toward an RNCP7.
-- 🎯 **DevOps / Cloud / Infra / Obervability / Platform**.
+- 🎯 **DevOps / Cloud / Infra / Obervability**.
 - 📄 **My CV** is available below for more details 👇
 
 <br>
